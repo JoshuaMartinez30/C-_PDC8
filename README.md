@@ -42,25 +42,25 @@ Punto de control #8 de **C++** diseñado para demostrar:
 
 ## :white_circle: Salida 
 
-![](imagenes/primero.jpeg)
+![](imagenes/primera.jpeg)
 
 ---
 
 ## :white_circle: Salida 
 
-![](imagenes/segundo.jpeg)
+![](imagenes/segunda.jpeg)
 
 ---
 
 ## :white_circle: Salida 
 
-![](imagenes/tercero.jpeg)
+![](imagenes/tercera.jpeg)
 
 ---
 
 ## :white_circle: Salida 
 
-![](imagenes/cuarto.jpeg)
+![](imagenes/cuarta.jpeg)
 
 ---
 
